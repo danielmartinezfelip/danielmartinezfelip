@@ -2,7 +2,7 @@
 
 🎓 **PhD Candidate** | University of Western Australia (UWA)  
 💡 Experimental economics and behavioral research  
-💻 Currently honing my skills in **Python** and **HTML** for experimental coding  
+💻 Currently improving my skills in **Python** and **HTML** for experimental coding  
 
 🌍 **My Personal Website:**  
 [![Website](https://img.shields.io/badge/Website-Visit%20Here-blue?style=flat&logo=google-chrome)](https://danielmartinezfelip.github.io/personal-website/)
