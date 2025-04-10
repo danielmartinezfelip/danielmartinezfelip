@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm @danielmartinezfelip
 
 🎓 **PhD Candidate** | University of Western Australia (UWA)  
-💡 Experimental economics and behavioral research  
+💡 Experimental economics and behavioural research  
 💻 Currently improving my skills in **Python** and **HTML** for experimental coding  
 
 🌍 **My Personal Website:**  
