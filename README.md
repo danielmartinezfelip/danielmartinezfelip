@@ -8,7 +8,7 @@
 [![Website](https://img.shields.io/badge/Website-Visit%20Here-blue?style=flat&logo=google-chrome)](https://danielmartinezfelip.github.io/)
 
 📫 **How to reach me:**  
-[![Email](https://img.shields.io/badge/Email-daniel.martinezfelip%40research.uwa.edu.au-blue?style=flat&logo=gmail)](mailto:daniel.martinezfelip@research.uwa.edu.au)
+[![Email](https://img.shields.io/badge/Email-dmartinezfelip.research%40gmail.com-blue?style=flat&logo=gmail)](mailto:dmartinezfelip.research@gmail.com)
 
 <!---
 danielmartinezfelip/danielmartinezfelip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
